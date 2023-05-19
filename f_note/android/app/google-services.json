@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665694408438",
+    "project_id": "fnote-a667f",
+    "storage_bucket": "fnote-a667f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665694408438:android:631bb58f060197023ae6d7",
+        "android_client_info": {
+          "package_name": "com.example.f_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665694408438-vh6tsscojqasum3bflu18ltm54d56evn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_9g6EAtrK0sReu2UVme2JS8lERwc9-gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665694408438-vh6tsscojqasum3bflu18ltm54d56evn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
